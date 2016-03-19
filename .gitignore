@@ -1,0 +1,7 @@
+# Maven #
+target/
+
+# ide #
+.settings/
+.classpath
+.project
